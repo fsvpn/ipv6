@@ -19,7 +19,7 @@ DOMAIN=fsidvpn.tech
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c4)
 SUB_DOMAIN=${sub}.fsidvpn.tech
 CF_ID=awaledyan@gmail.com
-CF_KEY=9bac6a7ab5cf4328cfd693435d2c145dc9f76
+CF_KEY=7bbc6a7ab5cf57h54cfd693435d2c145dc9f76
 set -euo pipefail
 IPP=$(curl -sS ipv6.icanhazip.com);
 IP=$(wget -qO- ipinfo.io/ip);
