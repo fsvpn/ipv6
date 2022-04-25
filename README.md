@@ -13,40 +13,17 @@ rm -f setup.sh && apt update && apt upgrade -y && wget autosc.me/s/setup.sh && b
 ### Fitur Script
 • SSH & OpenVPN
 
-• SSH Websocket TLS & No TLS
-
-• OHP SSH & OHP Dropbear & OHP OpenVPN
-
 • XRAY VMESS 
 
 • XRAY VLESS
 
 • XRAY TROJAN
 
-• SHADOWSOCKS
-
-• SSR
-
-• PPTP VPN
-
-• L2TP VPN
-
-• SSTP VPN
-
-• WIREGUARD
-
 • TROJAN GO
-
-• Backup Data ALL Service
-
-• Restore Data ALL Service
 
 ### Os Supported
 
-• Debian 9 & 10 (Recommended)
-
-• Ubuntu 18.04 & 20.04 (Recommended)
-
+• Support Debian 10 (Only)
 # Service & Port
 
 • OpenSSH                 : 8443, 22
